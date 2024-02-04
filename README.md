@@ -6,7 +6,7 @@ Abrimos el codigo con code . para ver el codigo en visual studio y modificamos e
 
 El siguiente paso fue darle git status donde nos envio el mensaje de que se habia realizado un cambio, asi que hicimos git commit -a "primer punto de la evaluación" y ya nuestro repo quedo al dia con los cambios.
 
-![alt text](image.png)
+![image](https://github.com/hacUPB/sc-control-version-Isagiraldoj/assets/140531453/d592e9c4-2b8a-4f3d-b868-7913be610fc8)
 
 La pagina donde estan las instrucciones de la evaluacion es la siguiente:
 https://confusion-snapper-025.notion.site/Evaluaci-n-Git-Github-y-Github-Classroom-60071e3da54b4f6a871a5715ce383fc4
